@@ -1,0 +1,6 @@
+c:\users\mfmts\onedrive - mr price group ltd\documents\visual studio 2015\Projects\prjFizzBuzzChallenge\prjFizzBuzzChallenge\bin\Debug\prjFizzBuzzChallenge.exe.config
+c:\users\mfmts\onedrive - mr price group ltd\documents\visual studio 2015\Projects\prjFizzBuzzChallenge\prjFizzBuzzChallenge\bin\Debug\prjFizzBuzzChallenge.exe
+c:\users\mfmts\onedrive - mr price group ltd\documents\visual studio 2015\Projects\prjFizzBuzzChallenge\prjFizzBuzzChallenge\bin\Debug\prjFizzBuzzChallenge.pdb
+c:\users\mfmts\onedrive - mr price group ltd\documents\visual studio 2015\Projects\prjFizzBuzzChallenge\prjFizzBuzzChallenge\obj\Debug\prjFizzBuzzChallenge.csprojResolveAssemblyReference.cache
+c:\users\mfmts\onedrive - mr price group ltd\documents\visual studio 2015\Projects\prjFizzBuzzChallenge\prjFizzBuzzChallenge\obj\Debug\prjFizzBuzzChallenge.exe
+c:\users\mfmts\onedrive - mr price group ltd\documents\visual studio 2015\Projects\prjFizzBuzzChallenge\prjFizzBuzzChallenge\obj\Debug\prjFizzBuzzChallenge.pdb
